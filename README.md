@@ -24,7 +24,7 @@ java -jar ./build/libs/food_truck_cli.jar
 ```
 
 
-## Write Up
+## What I would do turn this proof-of-concept into a web application
 To start turning this proof-of-concept command line application into a fully featured web application, I would add a 
 front-end UI with Google Maps integrated into it to provide visibility into food truck location and availability. I 
 would capture the user’s location by either using the browser’s geolocation API or require user location input. The 
